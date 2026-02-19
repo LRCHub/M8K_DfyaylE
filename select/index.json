@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "PTA　〜光のネットワーク〜",
+  "base_artist": "UNICORN",
+  "createdAt": "2026-02-19T13:01:44.990165Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PTA",
+      "artist": "The Lawrence Arms",
+      "has_synced": false,
+      "path": "select/01_PTA_The_Lawrence_Arms.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PTA",
+      "artist": "Pulp",
+      "has_synced": true,
+      "path": "select/02_PTA_Pulp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Harper Valley PTA",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/03_Harper_Valley_PTA_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Harper Valley PTA",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/04_Harper_Valley_PTA_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Harper Valley PTA",
+      "artist": "Billy Ray Cyrus",
+      "has_synced": true,
+      "path": "select/05_Harper_Valley_PTA_Billy_Ray_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Harper Valley PTA",
+      "artist": "Martina McBride",
+      "has_synced": false,
+      "path": "select/06_Harper_Valley_PTA_Martina_McBride.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Harper Valley PTA",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/07_Harper_Valley_PTA_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Harper Valley Pta",
+      "artist": "Jeannie C Riley",
+      "has_synced": true,
+      "path": "select/08_Harper_Valley_Pta_Jeannie_C_Riley.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Harper Valley PTA",
+      "artist": "Jeannie C. Riley",
+      "has_synced": false,
+      "path": "select/09_Harper_Valley_PTA_Jeannie_C._Riley.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pta Mainu",
+      "artist": "Harvi",
+      "has_synced": true,
+      "path": "select/10_Pta_Mainu_Harvi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tenu Ni Pta",
+      "artist": "Guri",
+      "has_synced": true,
+      "path": "select/11_Tenu_Ni_Pta_Guri.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Harper Valley PTA",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/12_Harper_Valley_PTA_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Harper Valley PTA",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/13_Harper_Valley_PTA_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Harper Valley PTA",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/14_Harper_Valley_PTA_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Harper Valley PTA",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/15_Harper_Valley_PTA_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Harper Walley PTA",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/16_Harper_Walley_PTA_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Harper Valley PTA",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/17_Harper_Valley_PTA_Dolly_Parton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PTA ～光のネットワーク～",
+      "artist": "UNICORN",
+      "has_synced": false,
+      "path": "select/pl_01_PTA_~光のネットワーク~_UNICORN.txt"
+    }
+  ]
+}
